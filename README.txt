@@ -1,0 +1,2 @@
+KeywordCount.java // counts the mentions of each character per minute on an episode. It delivers (name+min, count)
+EmojiList.java // extracts a list of all the emojis used within a tweet mentioning a character 	
